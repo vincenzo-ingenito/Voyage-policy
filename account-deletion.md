@@ -52,7 +52,7 @@ It is **not possible to recover** this data after deletion.
 
 For questions or support regarding account deletion:
 
-- **Email:** [vincenzo.ingenit@hotmail.it](mailto:vincenzo.ingenit@hotmail.it)
+- **Email:** [vinc.ingenit@gmail.com](mailto:vinc.ingenit@gmail.com)
 - **Developer:** Vincenzo Ingenito
 - **App Name:** Voyage
 
@@ -95,7 +95,7 @@ Account deletion is available on:
 ### Deletion failed?
 - Check your internet connection
 - Try logging out and logging back in
-- Contact support: vincenzo.ingenit@hotmail.it
+- Contact support: vinc.ingenit@gmail.com
 
 ---
 
@@ -103,7 +103,7 @@ Account deletion is available on:
 
 **App Name:** Voyage  
 **Developer:** Vincenzo Ingenito  
-**Contact:** vincenzo.ingenit@hotmail.it  
+**Contact:** vinc.ingenit@gmail.com  
 **Compliance:** GDPR Article 17 (Right to Erasure)
 
 ---
